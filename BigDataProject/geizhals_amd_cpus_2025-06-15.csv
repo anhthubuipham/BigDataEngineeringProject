@@ -1,0 +1,901 @@
+Title,Price_EUR,Kerne,Turbotakt_GHz,Basistakt_GHz
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, boxed ohne Kühler",492.0,8,5.2,4.7
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, boxed ohne Kühler",224.88,8,4.1,3.0
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, boxed ohne Kühler",383.09,8,5.0,4.2
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",735.11,16,5.7,4.3
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, boxed ohne Kühler",299.0,8,5.5,3.8
+"AMD Ryzen 5 7500F, 6C/12T, 3.70-5.00GHz, tray",134.93,6,5.0,3.7
+"AMD Ryzen 7 7800X3D, 8C/16T, 4.20-5.00GHz, tray",348.9,8,5.0,4.2
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, boxed ohne Kühler",206.77,6,5.4,3.9
+"AMD Ryzen 7 7700, 8C/16T, 3.80-5.30GHz, tray",186.17,8,5.3,3.8
+"AMD Ryzen 5 7600X3D, 6C/12T, 4.10-4.70GHz, boxed ohne Kühler",269.0,6,4.7,4.1
+"AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, tray",484.9,8,5.2,4.7
+"AMD Ryzen 9 9900X, 12C/24T, 4.40-5.60GHz, boxed ohne Kühler",389.0,12,5.6,4.4
+"AMD Ryzen 9 9950X, 16C/32T, 4.30-5.70GHz, boxed ohne Kühler",559.0,16,5.7,4.3
+"AMD Ryzen 9 5950X, 16C/32T, 3.40-4.90GHz, boxed ohne Kühler",257.69,16,4.9,3.4
+"AMD Ryzen 7 5700X, 8C/16T, 3.40-4.60GHz, tray",109.8,8,4.6,3.4
+"AMD Ryzen 7 8700G, 8C/16T, 4.20-5.10GHz, boxed",244.9,8,5.1,4.2
+"AMD Ryzen 9 9900X3D, 12C/24T, 4.40-5.50GHz, boxed ohne Kühler",599.0,12,5.5,4.4
+"AMD Ryzen 5 8400F, 6C/12T, 4.20-4.70GHz, tray",90.08,6,4.7,4.2
+"AMD Ryzen 7 5700G, 8C/16T, 3.80-4.60GHz, boxed",119.9,8,4.6,3.8
+"AMD Ryzen 7 9700X, 8C/16T, 3.80-5.50GHz, tray",284.8,8,5.5,3.8
+"AMD Ryzen 9 9950X3D, 16C/32T, 4.30-5.70GHz, tray",702.46,16,5.7,4.3
+"AMD Ryzen 7 5700X3D, 8C/16T, 3.00-4.10GHz, tray",231.83,8,4.1,3.0
+"AMD Ryzen 9 7900, 12C/24T, 3.70-5.40GHz, boxed",296.1,12,5.4,3.7
+"AMD Ryzen 5 8600G, 6C/12T, 4.30-5.00GHz, boxed",165.12,6,5.0,4.3
+"AMD Ryzen 9 7900X, 12C/24T, 4.70-5.60GHz, boxed ohne Kühler",319.8,12,5.6,4.7
+"AMD Ryzen 9 7950X3D, 16C/32T, 4.20-5.70GHz, boxed ohne Kühler",834.18,16,5.7,4.2
+"AMD Ryzen 5 4500, 6C/12T, 3.60-4.10GHz, boxed",47.9,6,4.1,3.6
+"AMD Ryzen 5 7600X, 6C/12T, 4.70-5.30GHz, boxed ohne Kühler",187.86,6,5.3,4.7
+"AMD Ryzen 5 9600X, 6C/12T, 3.90-5.40GHz, tray",201.9,6,5.4,3.9
+"AMD Ryzen 7 5800X, 8C/16T, 3.80-4.70GHz, boxed ohne Kühler",141.08,8,4.7,3.8

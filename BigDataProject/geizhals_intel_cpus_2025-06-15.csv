@@ -1,0 +1,901 @@
+Title,Price_EUR,Kerne,Turbotakt_GHz,Basistakt_GHz
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",302.42,20,5.5,3.9
+"Intel Core i5-14600K, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",210.76,14,5.3,3.5
+"Intel Core i5-14400, 6C+4c/16T, 2.50-4.70GHz, boxed",151.68,10,4.7,2.5
+"Intel Core Ultra 9 285K, 8C+16c/24T, 3.70-5.70GHz, boxed ohne Kühler",582.86,24,5.7,3.7
+"Intel Core i9-14900K, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",451.81,24,6.0,3.2
+"Intel Core Ultra 7 265KF, 8C+12c/20T, 3.90-5.50GHz, boxed ohne Kühler",299.17,20,5.5,3.9
+"Intel Core i7-14700K, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",328.9,20,5.6,3.4
+"Intel Core Ultra 5 235, 6C+8c/14T, 3.40-5.00GHz, boxed",264.0,14,5.0,3.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, tray",304.0,20,5.6,3.4
+"Intel Core i7-14700, 8C+12c/28T, 2.10-5.40GHz, boxed",322.2,20,5.4,2.1
+"Intel Core Ultra 5 225, 6C+4c/10T, 3.30-4.90GHz, boxed",255.42,10,4.9,3.3
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, boxed ohne Kühler",190.58,14,5.3,3.5
+"Intel Core Ultra 5 225F, 6C+4c/10T, 3.30-4.90GHz, boxed",230.92,10,4.9,3.3
+"Intel Core Ultra 5 245K, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",269.99,14,5.2,4.2
+"Intel Core i5-14400F, 6C+4c/16T, 2.50-4.70GHz, boxed",120.0,10,4.7,2.5
+"Intel Core Ultra 5 245KF, 6C+8c/14T, 4.20-5.20GHz, boxed ohne Kühler",254.44,14,5.2,4.2
+"Intel Core Ultra 7 265, 8C+12c/20T, 2.40-5.30GHz, boxed",349.9,20,5.3,2.4
+"Intel Core i7-14700KF, 8C+12c/28T, 3.40-5.60GHz, boxed ohne Kühler",311.59,20,5.6,3.4
+"Intel Core i9-12900K, 8C+8c/24T, 3.20-5.20GHz, boxed ohne Kühler",327.34,16,5.2,3.2
+"Intel Core i9-13900K, 8C+16c/32T, 3.00-5.80GHz, boxed ohne Kühler",516.28,24,5.8,3.0
+"Intel Core i9-14900KS Special Edition, 8C+16c/32T, 3.20-6.20GHz, boxed ohne Kühler",692.0,24,6.2,3.2
+"Intel Core i5-13400F (B0), 6C+4c/16T, 2.50-4.60GHz, tray",110.39,10,4.6,2.5
+"Intel Core Ultra 7 265K, 8C+12c/20T, 3.90-5.50GHz, tray",303.26,20,5.5,3.9
+"Intel Core i9-14900KF, 8C+16c/32T, 3.20-6.00GHz, boxed ohne Kühler",429.9,24,6.0,3.2
+"Intel Core i5-13500, 6C+8c/20T, 2.50-4.80GHz, boxed",207.69,14,4.8,2.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, tray",49.78,4,4.3,3.3
+"Intel Core i7-13700K, 8C+8c/24T, 3.40-5.40GHz, tray",341.51,16,5.4,3.4
+"Intel Core i5-14600KF, 6C+8c/20T, 3.50-5.30GHz, tray",179.73,14,5.3,3.5
+"Intel Core i3-12100F, 4C/8T, 3.30-4.30GHz, boxed",66.82,4,4.3,3.3
+"Intel Core i5-14400F (B0), 6C+4c/16T, 2.50-4.70GHz, tray",116.52,10,4.7,2.5
